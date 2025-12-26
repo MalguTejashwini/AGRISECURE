@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Assured Contract Farming
 
 A digital platform connecting farmers and buyers for secure, fixed-price crop contracts.
@@ -65,3 +66,7 @@ Connection string: `mongodb://localhost:27017/assured_contract_farming`
 - `GET /api/contracts` - Get contracts
 - `POST /api/contracts` - Create contract (Buyer)
 - `PUT /api/contracts/:id/accept` - Accept contract (Farmer)
+=======
+# AGRISECURE
+Agrisecure is a MERN-based Assured Contract Farming platform that connects farmers and buyers through secure digital contracts, transparent pricing, and reliable agreements.
+>>>>>>> eaaf668e310ed0cb3d0d4a09a18c32be6a158b58
